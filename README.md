@@ -10,3 +10,5 @@ The project aims to proivide a tool (mobile app) for local and international tou
 Though LUME Project is now discontinued it resulted in a mobile app the LUME PlannER. 
 
 The front-end of the app is now available in this repository. 
+
+![FronEnd Android App](Lume1.png "MarineGEO logo")
